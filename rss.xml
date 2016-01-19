@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[I Am Surya]]></title>
         <description><![CDATA[I Am Surya]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/i-am-surya/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 21:23:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 21:25:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/i-am-surya/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd2a4ad5-7876-4969-91c9-67a0bc718111.jpg">]]></description>
-            <link>undefined4356daad-6e5a-4b89-8cd1-ad166179a088/index.html</link>
+            <title><![CDATA[Camping @ Devil's Fork State Park]]></title>
+            <description><![CDATA[<article><h1>Camping @ Devil's Fork State Park</h1><p>Hello, I am Surya.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0bb8ecde1bfb3b110e8c609e6ad437716836cea.jpg"></article>]]></description>
+            <link>https://thegrid.ai/i-am-surya/4356daad-6e5a-4b89-8cd1-ad166179a088/index.html</link>
             <guid isPermaLink="false">4356daad-6e5a-4b89-8cd1-ad166179a088</guid>
-            <pubDate>Tue, 19 Jan 2016 21:23:45 GMT</pubDate>
+            <pubDate>Tue, 19 Jan 2016 21:25:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
