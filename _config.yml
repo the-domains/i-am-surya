@@ -28,5 +28,8 @@ navigation:
   - name: About Me
     url: google.com
     type: external
+  - name: Trial Error
+    url: Facebook.com
+    type: external
 favicon: null
 purpose: []
