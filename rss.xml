@@ -4,7 +4,7 @@
         <description><![CDATA[I Am Surya]]></description>
         <link>https://thegrid.ai/i-am-surya/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 16:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 12:17:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/i-am-surya/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/i-am-surya/4356daad-6e5a-4b89-8cd1-ad166179a088/index.html</link>
             <guid isPermaLink="false">4356daad-6e5a-4b89-8cd1-ad166179a088</guid>
             <pubDate>Wed, 20 Jan 2016 04:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RSRG: Teaching >> Reasoning Tables and VC Generation]]></title>
+            <description><![CDATA[<article><h1>RSRG: Teaching >> Reasoning Tables and VC Generation</h1><p>This three video series demonstrates how to formally prove the correctness of a simple operation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1952d1beb3d5320c03b40c0e3235a6a1d312ea31.jpg"></article>]]></description>
+            <link>https://www.cs.clemson.edu/resolve/teaching/ed_ws/sigcse2012/index.html</link>
+            <guid isPermaLink="false">bc0b61e3-e7c0-4178-a4fc-7aa5284f8e70</guid>
+            <pubDate>Wed, 31 Aug 2016 12:17:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
