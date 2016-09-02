@@ -1,19 +1,4 @@
-name: I Am Surya
-favicon: null
-layout_spectrum: 0.17005851678550243
 typography_spectrum: 0.38240123935975134
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000008'
@@ -25,4 +10,23 @@ color:
   lightness: 0.6921883397735655
   saturation: 0.4682077181059867
   rhythmicContrast: 0.6240900086704642
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.17005851678550243
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: I Am Surya
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About Me
+    url: google.com
+    type: external
+favicon: null
 purpose: []
